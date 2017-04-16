@@ -1,5 +1,4 @@
-# Interview
-Protractor learning project
+# Protractor and JavaScript learning project
 
 **To run example project you need to:**
 
