@@ -1,0 +1,10 @@
+{
+  "name": "GoogleTest",
+  "devDependencies": {
+    "log4js": "^1.1.1",
+    "jasmine-spec-reporter": "^2.7.0",
+    "jasmine-reporters": "^2.0.0",
+    "protractor": "^5.1.1",
+    "log4js": "latest"
+  }
+}
